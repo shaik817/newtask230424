@@ -3,3 +3,4 @@ NewLine
 NewLine 
 NewLine 
 "This is the new added text in this file" 
+"This is the new added text in this file" 
