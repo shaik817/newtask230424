@@ -6,3 +6,4 @@ NewLine
 "This is the new added text in this file" 
 hii
 "This is the new added text in this file" 
+"This is the new added text in this file" 
