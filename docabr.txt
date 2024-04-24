@@ -2,3 +2,4 @@ this is new task230424NewLine
 NewLine 
 NewLine 
 NewLine 
+"This is the new added text in this file" 
